@@ -18,6 +18,9 @@ p{
     margin-bottom: 35px;
     margin-top: 0px;
 }
+.footer{
+    padding: 0px 18px 0px 46px;
+}
 hr {
     border: 1px solid black;
 }
