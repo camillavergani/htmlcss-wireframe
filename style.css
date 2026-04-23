@@ -1,15 +1,23 @@
+header{
+    padding: 0px 0px 0px 15px;
+}
 body {
     width: 512px;
     border: 1px dotted black;
 }
-.card-1 {
+section{
     border: 1px solid black;
+    width: 450px;
+    margin: 20px 30px 20px 30px;
 }
-.card-2 {
-    border: 1px solid black;
+h2{
+    margin: 19px 0px 0px 15px;
 }
-.card-3 {
-    border: 1px solid black;
-}.card-4 {
+p{
+    padding: 0px 18px 0px 15px;
+    margin-bottom: 35px;
+    margin-top: 0px;
+}
+hr {
     border: 1px solid black;
 }
