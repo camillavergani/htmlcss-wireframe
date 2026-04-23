@@ -2,3 +2,14 @@ body {
     width: 512px;
     border: 1px dotted black;
 }
+.card-1 {
+    border: 1px solid black;
+}
+.card-2 {
+    border: 1px solid black;
+}
+.card-3 {
+    border: 1px solid black;
+}.card-4 {
+    border: 1px solid black;
+}
