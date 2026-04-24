@@ -8,17 +8,18 @@ body {
 section{
     border: 2px solid black;
     width: 450px;
+    height: 137px;
     margin: 20px 30px 20px 30px;
 }
 h2{
     margin: 19px 0px 0px 15px;
 }
-p{
+.card{
     padding: 0px 18px 0px 15px;
     margin-bottom: 35px;
     margin-top: 0px;
 }
-.footer{
+.sign{
     padding: 0px 18px 0px 46px;
 }
 hr {
