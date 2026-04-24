@@ -7,33 +7,38 @@ h1{
 body {
     width: 512px;
     border: 1px dotted black;
+    margin: 0;
 }
 main{
     width: 512px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px 30px;
+    box-sizing: border-box;
 }
 section{
+    box-sizing: border-box;
     border: 2px solid black;
+    padding: 20px;
     width: 450px;
     height: 137px;
-    margin: 0px 30px 20px 30px;
+    margin-bottom: 20px;
 }
 section:last-of-type {
   margin-bottom: 0;
 }
 h2{
-    margin: 19px 0px 0px 15px;
+    margin: 0px
 }
 .card{
-    padding: 0px 18px 0px 15px;
-    margin-bottom: 35px;
-    margin-top: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+hr {
+    border: 1px solid black;
+    margin: 0;
 }
 footer{
 padding:8px 0px 20px 20px;
 }
-hr {
-    border: 1px solid black;
+.sign {
     margin: 0;
 }
